@@ -4,4 +4,5 @@ library(ggplot2)
 
 ggplot(mpg, aes(displ, hwy, colour = class)) + 
   geom_point() +
-  geom_hline(6) # add a line at 6 
+  geom_hline(6) + # add a line at 6 
+  geom_vline(2) # add a vline at 2
