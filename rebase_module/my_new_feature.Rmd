@@ -1,4 +1,4 @@
-# Wow, this file will add a whole new feature!
+# Wow, this file will add a ole new feature!
 
 library(ggplot2)
 
